@@ -1,0 +1,15 @@
+class RootBeerSong {
+  public static void main (Sting [] args){
+    x = 99;
+    while (x > 0){
+      System.out.println(x + "bottles of root beer on the wall");
+      System.out.println(x + "bottles of root beer");
+      System.out.println("take one down, pass it around");
+      x--;
+      if (x > 0){
+      System.out.println(x + "bottles of root beer on the wall!");
+      }else {
+        System.out.println("no more bottles of root beer on the wall!")
+      }
+    }
+  }
